@@ -4,7 +4,7 @@
 	// Navbar component
 </script>
 
-<nav class="bg-[#010101 mt-[81px] z-10">
+<nav class="bg-[#010101 md:mt-[81px] mt-[76px] z-10">
 	<div class="mx-auto flex justify-between items-center md:items-start h-[76px] md:h-[76px] px-7 md:px-[211px]">
 		<div class='md:hidden'></div>
 
